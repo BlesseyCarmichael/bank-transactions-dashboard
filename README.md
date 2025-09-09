@@ -7,7 +7,7 @@ The goal was to explore transaction behavior across **channels, occupations, and
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](IMG_1911.png)  
+![Dashboard Preview](IMG_1191.png)  
 
 ## 🔑 Key Insights
 - Branch transactions (**868**) slightly outperformed ATM (**833**) and Online (**811**).  
