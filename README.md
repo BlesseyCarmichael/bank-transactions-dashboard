@@ -33,9 +33,6 @@ The goal was to explore transaction behavior across **channels, occupations, and
 
 ## 🔗 Project Links
 - **Interactive Tableau Dashboard:*(https://public.tableau.com/app/profile/blessey.carmichael/viz/BankTransactionsInsightDashboard2023/BankTransactionsInsightDashboard2023)
-- **LinkedIn Post:** (https://www.linkedin.com/posts/blessey-carmichael-prabu-doss_dataanalytics-tableau-datavisualization-activity-7370994493472509952-7SFt?utm_source=share&utm_medium=member_ios&rcm=ACoAACWk9MkBqMmodE0zYjvDHPRKgB59aKqUqeg)
-
----
 
 ✨ This project is part of my **Data Analytics learning journey**.  
 I’d love feedback and suggestions from the community!  
